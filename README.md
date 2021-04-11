@@ -1,6 +1,6 @@
 # Chess-Statistics-Toolkit
-Get data from the Lichess and Chess.com public APIs easily with Python's
-standard library.
+Get data from the Lichess and Chess.com public APIs easily without any 
+dependencies outside Python's standard library.
 
 ## How do I use this?
 
